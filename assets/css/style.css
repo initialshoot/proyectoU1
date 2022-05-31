@@ -118,3 +118,25 @@ i:hover {
     font-size: 1.45rem;
     margin-top: 8vh !important;
 }
+
+
+/***  Estilos para parte de JS ***/
+
+input#picker {
+    margin: 5px;
+    cursor: pointer;
+}
+
+input:last-child {
+    padding: 5px;
+    box-shadow: 0px 3px 5px rgb(5, 110, 117);
+}
+
+h4 {
+    font-size: 1rem !important;
+}
+
+.col-xxl-3 {
+    padding-left: 7vw !important;
+    padding-top: 3vh !important;
+}
